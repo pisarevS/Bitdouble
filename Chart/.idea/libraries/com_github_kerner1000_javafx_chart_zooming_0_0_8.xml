@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.kerner1000:javafx-chart-zooming:0.0.8" type="repository">
+    <properties maven-id="com.github.kerner1000:javafx-chart-zooming:0.0.8" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-chart-zooming-0.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/javafx-chart-zooming-0.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
